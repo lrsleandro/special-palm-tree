@@ -19,3 +19,12 @@ git commit -m “message here”
 // histórico de commits do projeto
 
 git log
+
+// puxa modificações do repositório para o repositório local
+
+git pull
+
+// envia as modificações locais para o repositório remoto
+
+git push
+
