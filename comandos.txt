@@ -19,3 +19,7 @@ git commit -m “message here”
 // histórico de commits do projeto
 
 git log
+
+--
+
+// comentário
