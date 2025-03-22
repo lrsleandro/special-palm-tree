@@ -27,4 +27,3 @@ git pull
 // envia as modificações locais para o repositório remoto
 
 git push
-
